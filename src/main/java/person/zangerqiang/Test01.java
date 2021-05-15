@@ -5,4 +5,8 @@ public class Test01 {
         System.out.println("Test01");
         System.out.println("hello github");
     }
+
+    public void m1(){
+        System.out.println("hello world");
+    }
 }
